@@ -1,0 +1,86 @@
+body{
+    background-image: url(./Images/prabhas.jpg);
+    background-size: auto;
+    background-repeat: no-repeat
+}
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Gurajada&family=Jaro:opsz@6..72&family=Kalam:wght@300;400;700&family=Lavishly+Yours&family=Playfair+Display:ital,wght@1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Gurajada&family=Jaro:opsz@6..72&family=Kalam:wght@300;400;700&family=Lavishly+Yours&family=Playfair+Display:ital,wght@1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Jaro:opsz@6..72&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Jaro:opsz@6..72&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Jaro:opsz@6..72&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Jaro:opsz@6..72&family=Lavishly+Yours&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Jaro:opsz@6..72&family=Lavishly+Yours&family=Playfair+Display:ital,wght@1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Gurajada&family=Jaro:opsz@6..72&family=Lavishly+Yours&family=Playfair+Display:ital,wght@1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Ga+Maamli&family=Gurajada&family=Jaro:opsz@6..72&family=Kalam:wght@300;400;700&family=Lavishly+Yours&family=Noto+Serif+Kannada:wght@100..900&family=Playfair+Display:ital,wght@1,400..900&display=swap');
+
+#heading2{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
+
+#heading3{
+    font-family: "Jaro", sans-serif;
+    font-weight: 900;
+}
+#heading4{
+    font-family: "Playfair Display", serif;
+    font-weight: 300;
+}
+#heading5{
+    font-family:"Ga Maamli", sans-serif;
+    font-weight: 400;
+}
+#heading6{
+    font-family:  "Lavishly Yours", cursive;
+    font-weight: 800;
+}
+#heading7{
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 200;
+    color: red;
+}
+img{
+    width: 500px;
+    height: 500px;
+    opacity: 100%;
+    display: inline-block;
+    box-shadow: 100px solid black;
+    position: top 25%;
+}
+#title1{
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 400;
+    color: rgb(142, 178, 227);
+}
+#title2{
+    font-family: "Gurajada", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color: rgb(239, 230, 230);
+    font-size: larger;
+}
+#title3{
+    font-family: "Kalam", cursive;
+    font-weight: 800;
+   font-style: normal;
+   color: rgb(159, 193, 125);
+}
+#title4{
+    font-family: "Chilanka", cursive;
+    font-weight: 900;
+    font-style: normal;
+    color: yellow;
+}
+#title5{
+    font-family: "Noto Serif Kannada", serif;
+    color: rgb(188, 23, 128);
+}
